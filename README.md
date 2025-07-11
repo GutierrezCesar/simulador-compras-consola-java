@@ -1,4 +1,5 @@
 💳 Simulador de Compras con Tarjeta de Crédito (Java)
+
 Este proyecto es una aplicación básica en Java que simula el uso de una tarjeta de crédito para realizar compras. Permite al usuario lanzar compras desde un menú interactivo, registrar los valores, y mostrar un listado de las compras realizadas ordenadas por valor.
 
 🛠️ Tecnologías usadas
