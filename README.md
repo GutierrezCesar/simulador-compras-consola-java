@@ -19,5 +19,17 @@ Ordenamiento de la lista por valor de compra (de mayor a menor o viceversa)
 Simulación de uso de tarjeta de crédito
 
 ▶️ Cómo ejecutar
-Clona el repositorio
+1. Clona el repositorio
+https://github.com/GutierrezCesar/simulador-compras-consola-java.git
 
+2. Compila el archivo Java
+javac Main.java
+
+3. Ejecuta la aplicación:
+java Main
+   
+5. Escriba el limite de la tarjeta: 1000
+6. Escriba la descripcion de la compra: Zapatilla
+7. Escriba el valor de la compra: 500
+Compra realizada!
+Escriba 0 para salir o 1 para continuar
